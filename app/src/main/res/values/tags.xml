@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tag_fragment_user_list">tag_fragment_user_list</string>
+    <string name="tag_fragment_user">tag_fragment_user</string>
+    <string name="tag_fragment_profile">tag_fragment_profile</string>
+
+</resources>
